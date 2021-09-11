@@ -22,19 +22,19 @@ It's about porting and reinterpreting code.
 즉 식사 알림은 시간만 다르게 해주었다.
 
 유리시 알림은 작성자가 좋아하는 연애인중 하나인 `조유리`가 태어난 시간에 연락을해서 10시 22분이 되기 2분전에 알림이 뜨게 한다.
-즉 해당 다른 사람은 필요없기에 삭제해도 된다.
+즉 해당 부분은 다른 사람에겐 필요없으면 삭제해도 된다.
 
 ### EN
-It sends a notification to eat every morning, lunch, and dinner from Monday to Thursday.
+It sends reminders to eat every morning, lunch, and dinner from Monday to Thursday.
 
-On Friday, the notification time is set differently because the schedule is different.
+Fridays have different schedules, so set different times for notifications.
 
-Saturday-Sunday schedules are set differently from weekdays in the morning, lunch, and evening.
+The Saturday-Sunday schedule is set differently from weekdays for breakfast, lunch, and dinner.
 
-In other words, the meal notification only changed the time.
+In other words, the meal reminder was made at a different time.
 
-The Yuri City notification contacts the time when `조유리` one of the authors' favorite lovers, is born and causes the notification to appear two minutes before 10:22.
-In other words, you can delete it because you don't need the other person.
+The notification of Yuri is made by the author at the time of birth of one of his favorite lovers, `조유리` and a notification pops up two minutes before 10:22.
+In other words, you can delete that part if you don't need it for anyone else.
 
 
 
