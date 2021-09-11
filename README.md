@@ -89,16 +89,4 @@ schedule.scheduleJob('00 18 * * 6-7', function(){
  
 ### Edit Code -EN
 
-```
-schedule.scheduleJob('00 18 * * 6-7', function(){
-    request.post({
-        headers: { 'content-type': 'application/json' },
-        url: 'WebHookUrl',
-        body: '{ "text": "Let's go have dinner." }'
-        });
-});
-```
-- In the `url` part, put the WebHook address of the bot you created.
-
-- `schedule.scheduleJob(00 18 * * 6-7, function(){ `00 18 * * 6-7` in `second`, `minute`, `hour`, `date`, `month You can set it in the order of `, `year`, `dayOfWeek`.
-  For example, if you want the scheduler to start at 12:33 every day, you can set it like this: `33 12 * * *`.
+Omitted due to translation error
